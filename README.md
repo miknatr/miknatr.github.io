@@ -3,7 +3,7 @@
 
 Привет! Меня зовут Михаил Натаров и на этом сайте я собираю свои материалы с разных площадок.
 
-Вы можете написать мне: [miknatr](https://t.me/miknatr) or [miknatr@gmail.com](mailto:miknatr@gmail.com)
+Вы можете написать мне в telegram [miknatr](https://t.me/miknatr) или на почту [miknatr@gmail.com](mailto:miknatr@gmail.com)
 
 ### Еще контакты
 
